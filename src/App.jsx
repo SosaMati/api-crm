@@ -23,7 +23,7 @@ function App() {
           <Route path=':id' element={ <VerCliente /> }/>
         </Route>
 
-          <Route path="/*" element={ <Navigate to= '/clientes'/> } /> 
+          
           
       </Routes>
     </BrowserRouter>
