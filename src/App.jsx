@@ -7,7 +7,7 @@ import { NuevoCliente } from './paginas/NuevoCliente';
 import { VerCliente } from './paginas/VerCliente';
 
 
-
+//json-server --watch db.json --port 4000 para iniciar el servidor local
 
 function App() {
 
