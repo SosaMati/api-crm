@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Matias",
+      "empresa": "Fulano",
+      "email": "matiasezequielsosa@gmail.com",
+      "telefono": "03484342298",
+      "notas": "",
+      "id": 1
+    }
+  ]
+}
